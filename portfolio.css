@@ -57,5 +57,5 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold-light);outline
 .hero-topline{top:104px}
 .hero-title{top:15%}
 .hero-portrait{height:97%;max-height:900px}
-@media(max-width:680px){.hero-topline{top:82px}.hero-title{top:15%}.hero-portrait{height:90%;max-height:none;max-width:none;bottom:8%;left:53%}}
-@media(max-width:370px){.hero-portrait{height:88%;left:52%}}
+@media(max-width:680px){.hero-topline{top:82px}.hero-title{top:15%}.hero-portrait{height:68%;max-height:560px;max-width:88vw;bottom:17%;left:52%;opacity:.96}}
+@media(max-width:370px){.hero-portrait{height:62%;max-height:500px;max-width:90vw;bottom:17%;left:52%}}
